@@ -24,7 +24,7 @@ install_theme() {
     read -r SELECT_THEME
     case "$SELECT_THEME" in
       1)
-        THEME_URL=$(echo -e "https://github.com/sevsbotz/sevsrawr/raw/main/stellar.zip")
+        THEME_URL=$(echo -e "https://github.com/fxyy2009/Fxyyinstal/raw/main/stellar.zip")
         break
         ;;
       2)
@@ -328,11 +328,11 @@ cd /var/www/pterodactyl || { echo "Direktori tidak ditemukan"; exit 1; }
 # Membuat lokasi baru
 php artisan p:user:make <<EOF
 yes
-sevs@sevsbotz.xyz
-sevsbotz
-sevsbotz
-sevsbotz
-sevsbotz
+fxyy@fxyy.code
+fxyy
+fxyy
+fxyy
+fxyy
 EOF
   echo -e "                                                       "
   echo -e "${GREEN}[+] =============================================== [+]${NC}"
@@ -352,10 +352,10 @@ while true; do
   echo -e "${RED}  ,ggggg        gggggggg.                                            ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                           ${NC}"
   echo -e "${RED}',gg       ,ggg.      'ggg:                                          ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer SEVSBOTZ   ${NC}"
+  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer FXYYCXX   ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      -----------------------------------  ${NC}"
-  echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : @sevskmtl        ${NC}"
-  echo -e "${RED} ggg.    '.'''ggggggp           • Support By SEVSBOTZ  ${NC}"
+  echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : @FxyyCxx2        ${NC}"
+  echo -e "${RED} ggg.    '.'''ggggggp           • Support By FXYYCXX  ${NC}"
   echo -e "${RED}  'ggg    '-.__                                                      ${NC}"
   echo -e "${RED}    ggg                                                              ${NC}"
   echo -e "${RED}      ggg                                                            ${NC}"
