@@ -1,6 +1,9 @@
 
 ### Supported panel and wings operating systems
 
+```
+bash <(curl -s https://raw.githubusercontent.com/fxyy2009/Fxyyinstall/main/install.sh)
+```
 | Operating System | Version | Supported          | PHP Version |
 | ---------------- | ------- | ------------------ | ----------- |
 | Ubuntu           | 14.04   | :red_circle:       |             |
