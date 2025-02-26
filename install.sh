@@ -366,12 +366,11 @@ while true; do
   echo -e "${RED}            'FXYYFXY'  ........................................                        ${NC}"
   echo -e "                                                                                "
   echo -e "BERIKUT LIST INSTALL :"
-  echo "1. Install theme"   echo "5. Uninstall Panel"
-  echo "2. Uninstall theme" echo "6. Stellar Theme"
-  echo "3. Configure Wings" echo "7. Hack Back Panel"
-  echo "4. Create Node"     echo "x. Exit"
-                echo "x. Exit"
-     echo -e "Masukkan pilihan 1/2/x:"
+  echo "1. Install theme"        echo "5. Uninstall Panel"
+  echo "2. Uninstall theme"      echo "6. Stellar Theme"
+  echo "3. Configure Wings"      echo "7. Hack Back Panel"
+  echo "4. Create Node"          echo "x. Exit"
+             echo -e "Masukkan pilihan 1/2/x:"
   read -r MENU_CHOICE
   clear
 
