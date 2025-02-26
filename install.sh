@@ -370,7 +370,7 @@ while true; do
   echo "2. Uninstall theme"      echo "6. Stellar Theme"
   echo "3. Configure Wings"      echo "7. Hack Back Panel"
   echo "4. Create Node"          echo "x. Exit"
-             echo -e "Masukkan pilihan 1/2/x:"
+               echo -e "Masukkan pilihan 1/2/x:"
   read -r MENU_CHOICE
   clear
 
